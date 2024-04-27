@@ -1,0 +1,6 @@
+__pycache__/
+*_logs/
+dataset_UWM_GI_Tract_train_valid/
+*.zip
+uw-madison-gi-tract-image-segmentation/
+segformer_trained_weights/
