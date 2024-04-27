@@ -1,3 +1,3 @@
 # Medical Image Segmentation
 
-[!img](./output.png)
+![Image](./output.png)
